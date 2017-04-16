@@ -2,7 +2,7 @@
 
 Você devera desenvolver uma aplicação capaz de recolher dados de uma api, selecionar estes dados e criar arquivos de saída com dados compilados. 
 
-#Cenário 
+# Cenário 
 
 Queremos recolher dados do universo Starwars. Existe uma api desenvolvida que nos fornece todas as informaçes necessárias através da url: http://swapi.co/api/ 
 
@@ -46,4 +46,4 @@ Quando finalizada a implementação nos notifique por email.
 Todas as dúvidas sobre o teste deverão ser efetuadas através da abertura de um issue neste repositório e serão sanadas assim que possível. 
 
 
-###Boa sorte e que a força esteja com você!
+### Boa sorte e que a força esteja com você!
