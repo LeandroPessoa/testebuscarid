@@ -39,9 +39,11 @@ Parâmetros que não são considerados neste teste:
 
 # Considerações finais 
 
-Faça um fork deste repositório com o nome que desejar e nos informe o endereço de seu repositório antes do inicio da implementação. 
+É esperado uma breve explicação do código bem como instruções para sua execução.
 
-Quando finalizada a implementação nos notifique por email. 
+Faça um fork deste repositório com o nome que desejar e nos informe o endereço de seu repositório antes do inicio da implementação via issue. 
+
+Quando finalizada a implementação nos notifique criando um issue. 
 
 Todas as dúvidas sobre o teste deverão ser efetuadas através da abertura de um issue neste repositório e serão sanadas assim que possível. 
 
