@@ -19,11 +19,17 @@ Cada um dos itens acima deverá ser apresentado em um arquivo de formato csv.
 Este teste avalia suas habilidades em lidar com api's junto com a linguagem de programação Python bem como suas habilidades com manipulação de dados. 
 
 Para guiar sua jornada é altamente recomendável a leitura da seguinte bibliografia: 
+
 https://swapi.co/documentation 
+
 https://12factor.net 
+
 https://luigi.readthedocs.io/en/stable/ 
+
 http://pandas.pydata.org/pandas-docs/stable/ 
+
 https://www.thoughtco.com/star-wars-glossary-aby-and-bby-2957907 
+
 
 Parâmetros a serem considerados neste teste: 
 
